@@ -1,2 +1,2 @@
 # Classifying-iris-dataset
-Iris dataset is classified using the support vector machine algorithm.
+This repository contains a project on classification of Iris dataset using Suppoer Vector Machine algorithm. The Iris dataset or Fisher's Iris dataset is a multivariate dataset introduced by the British statistician and biologist Ronald Fisher. The dataset connsists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. 
